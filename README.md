@@ -1,16 +1,22 @@
-### Hi there 👋
+# Seja bem-vindo ao meu perfil no GitHub! 👋
 
-<!--
-**caiocezartg/caiocezartg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caio Cezar, tenho 21 anos atualmente, moro em São Paulo na capital e sou apaixonado por tecnologia e inovações desde criança!
+Sou estudante na área de **UI/UX Design** e **Desenvolvimento Front-End**, também curso **Ciências da Computação**!
 
-Here are some ideas to get you started:
+Espero que goste do meu perfil e possa ser recompensado com alguma informação ou recurso novo em meus repositórios! :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Principais linguagens que uso: **HTML5**, **CSS3**, **JavaScript**.
+
+💼 Ferramentas: **VSCode**, **Git**, **Photoshop**, **Illustrator**,  **Adobe XD**, **Figma**.
+
+**Está interessado em entrar em contato comigo?** :email: Acesse através das badges abaixo!
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caiocezartg@gmail.com?subject=Contato%Github" />
+</a>  
+<a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/" /></a>
+<a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982382409&text=Ol%C3%A1%Caio!%Vim%através%do%seu%Github%contatar%contigo."/></a>
+</p>
