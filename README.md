@@ -12,11 +12,11 @@ Espero que goste do meu perfil e possa ser recompensado com alguma informação 
 **Está interessado em entrar em contato comigo?** :email: Acesse através das badges abaixo!
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:caiocezartg@gmail.com?subject=Contato%Github" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caiocezartg@gmail.com?subject=Contato%Github" />
 </a>  
-<a href="#" alt="Linkedin">
+<a href="https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/" /></a>
-<a href="#" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5511982382409&text=Ol%C3%A1%Caio!%Vim%através%do%seu%Github%contatar%contigo." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982382409&text=Ol%C3%A1%Caio!%Vim%através%do%seu%Github%contatar%contigo."/></a>
 </p>
