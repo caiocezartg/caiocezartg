@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil no GitHub! 👋
 
-Meu nome é Caio Cezar, tenho 21 anos atualmente, moro em São Paulo na capital e sou apaixonado por tecnologia e inovações desde criança!
+Meu nome é Caio Cezar, tenho 22 anos atualmente, moro em São Paulo na capital e sou apaixonado por tecnologia e inovações desde criança!
 Sou estudante na área de **Desenvolvimento Front-End** e graduado no curso de **Ciências da Computação**!
 
 Espero que goste do meu perfil e possa ser recompensado com alguma informação ou recurso novo em meus repositórios! :smile:
