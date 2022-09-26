@@ -22,5 +22,9 @@ Hey ✌️ I am Caio Cezar, 23 years old and a recent Computer Science Graduate!
 
 ## Github Stats 📊
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=caiocezartg&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocezartg&layout=compact&theme=dracula&hide_border=true)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiocezartg&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocezartg&layout=compact&theme=dracula&hide_border=true" />
+</a>
