@@ -1,6 +1,6 @@
 ## Welcome to my profile! 😁
 
-Hey ✌️ I am Caio Cezar, with 23 years old and a recent Computer Science Graduate! I'm just a Front-end Developer that loves to learn new technologies and programming languages! Feel free to contact me and say hi:
+Hey ✌️ I am Caio Cezar, 23 years old and a recent Computer Science Graduate! I'm just a Front-end Developer that loves to learn new technologies and programming languages! Feel free to contact me and say "Hello ~~World~~!":
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cezar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)](https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)
 [![Gmail Badge](https://img.shields.io/badge/-caiocezartg@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiocezartg@gmail.com)](mailto:caiocezartg@gmail.com)
