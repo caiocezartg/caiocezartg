@@ -1,6 +1,8 @@
 ## Welcome to my profile! 😁
 
-Hey ✌️ I am Caio Cezar, 23 years old and a recent Computer Science Graduate! I'm just a Front-end Developer that loves to learn new technologies and programming languages! Feel free to contact me and say "Hello ~~World~~!":
+Hey there ✌ I'm Caio Cezar, a Computer Science graduate who's passionate about front-end development. I've been in this exciting field for a while now, and I'm always on the lookout for new and innovative ways to make my designs stand out. But you know what they say, "variety is the spice of life," so I'm currently exploring other areas of programming as well.
+
+Feel free to browse my repositories and drop me a message if you have any questions or just want to say "hello world"!. Let's connect and build something together 😉
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cezar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)](https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)
 [![Gmail Badge](https://img.shields.io/badge/-caiocezartg@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiocezartg@gmail.com)](mailto:caiocezartg@gmail.com)
