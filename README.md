@@ -1,4 +1,4 @@
-## Welcome to my profile! 😁
+# Welcome to my profile! 😁
 
 Hey there ✌ I'm Caio Cezar, a Computer Science graduate who's passionate about front-end development. I've been in this exciting field for a while now, and I'm always on the lookout for new and innovative ways to make my designs stand out. But you know what they say, "variety is the spice of life," so I'm currently exploring other areas of programming as well.
 
@@ -7,7 +7,7 @@ Feel free to browse my repositories and drop me a message if you have any questi
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cezar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)](https://www.linkedin.com/in/caio-cezar-toledo-gonçalves/)
 [![Gmail Badge](https://img.shields.io/badge/-caiocezartg@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiocezartg@gmail.com)](mailto:caiocezartg@gmail.com)
 
-## Technologies 💻
+# Technologies 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ Feel free to browse my repositories and drop me a message if you have any questi
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Github Stats 📊
+# Github Stats 📊
 
 <div align="center">
 
