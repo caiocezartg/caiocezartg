@@ -24,7 +24,7 @@ Feel free to browse my repositories and drop me a message if you have any questi
 
 # Github Stats 📊
 
-<div align="center">
+<div>
 
   <a href="https://github.com/caiocezartg">
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=caiocezartg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
